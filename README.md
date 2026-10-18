@@ -1,19 +1,24 @@
 # 👁️ PHARAOH-EYE - Cyber Pharaoh Recon
-![Python](https://img.shields.io/badge/Python-3.x-blue) ![Egypt](https://img.shields.io/badge/Made%20in-Giza%2C%20Egypt-red) ![Version](https://img.shields.io/badge/version-1.2-gold)
+![Python](https://img.shields.io/badge/Python-3.x-blue) ![Egypt](https://img.shields.i
+# 👁️ PHARAOH-EYE - Cyber Pharaoh Recon
 
-> First Egyptian Pharaoh Recon Tool - Made in Giza
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Egypt](https://img.shields.io/badge/Made%20in-Giza%20Egypt-red)
+![Version](https://img.shields.io/badge/version-1.2-gold)
 
-أداة استطلاع سريعة للمطورين والـ Bug Hunters.
+> First Egyptian Pharaoh Recon Tool - Made in Giza by Adel Mahmoud (Adel 89)
 
-### Features v1.2
-- ✅ فحص سريع للـ Headers
-- ✅ كشف التكنولوجيا
-- ✅ الوان فرعونية + لوجو
-- ✅ سريع وخفيف
+## 👑 Author
+**Adel Mahmoud - Cyber Pharaoh**
+📍 Giza, Egypt 🇪🇬
 
-### Installation
+## 🔥 Features v1.2
+- 🛰️ Subdomain Discovery
+- 🌐 Port Scanning
+- 🔍 Banner Grabbing
+- 👁️ Eye of Horus Engine
+- ⚡ Fast & Stealthy
+
+## 🚀 Usage
 ```bash
-git clone https://github.com/am5203847-stack/PHARAOH-EYE.git
-cd PHARAOH-EYE
-pip install requests
-python pharaoh.py
+python3 pharaoh.py -d example.com
