@@ -1,21 +1,17 @@
-# 👁️ PHARAOH-EYE - Cyber Pharaoh Recon
+# 👁️ PHARAOH EYE - OSINT TOOL
+### Coded by @adel89_osint - Egypt
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Egypt](https://img.shields.io/badge/Made%20in-Giza%20Egypt-red)
-![Version](https://img.shields.io/badge/version-1.2-gold)
+![Python](https://img.shields.io/badge/Python-3.11-green)
+![OSINT](https://img.shields.io/badge/TOOL-OSINT-red)
 
-> First Egyptian Pharaoh Recon Tool - Made in Giza by Adel Mahmoud (Adel 89)
+Tool to find username on 20+ platforms!
 
-### 👑 Author
-**Adel Mahmoud - Cyber Pharaoh** 📍 Giza, Egypt 🇪🇬
+### Features:
+- Check 20 sites fast
+- TikTok, Instagram, Telegram, Twitch, Steam
+- Save results to txt file
+- Works on Termux mobile!
 
-### 🔥 Features v1.2
-- 🛰️ Subdomain Discovery
-- 🌐 Port Scanning
-- 🔍 Banner Grabbing
-- 👁️ Eye of Horus Engine
-- ⚡ Fast & Stealthy
+### How to run:
 
-### 🚀 Usage
-```bash
-python3 pharaoh.py -d example.com
+TikTok: @adel89_osint
