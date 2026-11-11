@@ -1,0 +1,6 @@
+=== DNS PROOF Wed Nov 11 20:45:35 2026 ===
+[OK] /data/data/com.termux/files/usr/etc/resolv.conf -> nameserver 8.8.8.8
+nameserver 1.1.1.1
+
+[FAIL] /etc/resolv.conf: [Errno 30] Read-only file system: '/etc/resolv.conf'
+RESOLVE google.com -> 142.251.39.174
